@@ -2,14 +2,14 @@ img {
     width: 500px;
     position: absolute;
     top: 300;
-    left: 300;
+    left: 1000;
 }
 
 body {
     text-align: center;
     font-family: "Arial";
-    background-image: url("https://i.ytimg.com/vi/lt0WQ8JzLz4/maxresdefault.jpg");
-    background-w
+    background-color:black;
+    
     }
 
 h1 {
