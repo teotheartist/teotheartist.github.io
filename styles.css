@@ -45,8 +45,9 @@ p2 {
 }
 
 p3 {
-    position: absolute;
-    top:-250;
+    position: fixed;
+    top: 220;
     left: 600;
     width: 100%;
+    display:block;
 }
