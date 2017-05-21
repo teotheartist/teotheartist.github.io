@@ -14,7 +14,7 @@ body {
 h1 {
     position: absolute;
     margin-top: -180px;
-    left: 10;
+    left: 1;
     width: 100%;
     font-family: 20px;
     
@@ -43,7 +43,7 @@ p {
 #spotify {
     position: fixed;
     top: 230;
-    left: 59vw;
+    left: 58vw;
 }
 
 #soundcloud {
