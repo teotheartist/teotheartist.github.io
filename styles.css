@@ -17,8 +17,8 @@ body {
 
 h1 {
     position: absolute;
-    margin-top: -165px;
-    left: 0;
+    margin-top: -220px;
+    left: 10;
     width: 100%;
     
 }
@@ -39,7 +39,7 @@ p1 {
 
 p2 { 
     position: fixed;
-    top: 260;
+    top: 330;
     left: 0;
     width: 100%;
     display:block;
@@ -47,7 +47,7 @@ p2 {
 
 p3 {
     position: fixed;
-    top: 260;
+    top: 330;
     left: 200;
     width: 100%;
     display:block;
@@ -55,7 +55,7 @@ p3 {
 
 p4 {
     position: fixed;
-    top: 260;
+    top: 330;
     left: -210;
     width: 100%;
     display:block;
