@@ -1,32 +1,37 @@
 img {
     position: static;
+    margin-bottom:-200px;
+    
+}
+img {
+    position: relative;
     margin-top: 400px;
 }
 
 body {
     text-align: center;
     font-family: "Helvetica";
-    background-color: "white";
+    background-color:"black";
     
 }
 
 h1 {
-    position: absolute;
-    margin-top: -165px;
+    position: relative;
+    margin-top: -50px;
     left: 0;
     width: 100%;
     
 }
 
 p {
-    position: absolute;
+    position: relative;
     top: 18;
     left: 0;
     width: 100%;
 }
 
 p1 {
-    position: absolute;
+    position: relative;
     top: 50;
     left: 0;
     width: 100%;
