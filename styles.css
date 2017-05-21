@@ -37,11 +37,12 @@ p1 {
     width: 100%;
 }
 
-p2 {
+p2 { 
     position: fixed;
     top: 225;
     left: 0;
     width: 100%;
+    display:block;
 }
 
 p3 {
