@@ -39,7 +39,7 @@ p1 {
 
 p2 { 
     position: fixed;
-    top: 225;
+    top: 260;
     left: 0;
     width: 100%;
     display:block;
@@ -47,8 +47,16 @@ p2 {
 
 p3 {
     position: fixed;
-    top: 220;
+    top: 260;
     left: 200;
+    width: 100%;
+    display:block;
+}
+
+p4 {
+    position: fixed;
+    top: 260;
+    left: -210;
     width: 100%;
     display:block;
 }
