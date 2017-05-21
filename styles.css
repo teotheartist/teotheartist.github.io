@@ -1,8 +1,20 @@
-img
-{
+.parent {
+    position:relative;
+    top: 0;
+    left: 0;
+}
+
+.image1{
     position: relative;
     margin-top: 400px;
 }
+
+.image2 {
+    position: absolute;
+    top: 30px;
+    left: 70px;
+}
+
 
 body {
     text-align: center;
