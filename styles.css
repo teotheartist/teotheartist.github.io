@@ -1,8 +1,8 @@
 img {
     width: 500px;
     position: absolute;
-    top: 300;
-    left: 870;
+    top: 150;
+    left: 100;
 }
 
 body {
@@ -10,7 +10,7 @@ body {
     font-family: "Arial";
     background-color:black;
     
-    }
+}
 
 h1 {
     position: absolute;
