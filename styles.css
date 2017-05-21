@@ -1,14 +1,9 @@
-image1{
+img
+{
     position: static;
     margin-top: 400px;
-    
 }
 
-image2{
-    position: static;
-    margin-top: 600px;
-    
-}
 
 
 
@@ -39,4 +34,9 @@ p1 {
     top: 50;
     left: 0;
     width: 100%;
+}
+
+image2{
+    position: static;
+    margin-top: 0px;
 }
