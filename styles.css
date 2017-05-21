@@ -1,15 +1,12 @@
 img
 {
-    position: static;
+    position: relative;
     margin-top: 400px;
 }
 
-
-
-
 body {
     text-align: center;
-    font-family: "Arial";
+    font-family: "Trebuchet Ms";
     background-color:black;
     
 }
@@ -36,7 +33,3 @@ p1 {
     width: 100%;
 }
 
-image2{
-    position: static;
-    margin-top: 0px;
-}
