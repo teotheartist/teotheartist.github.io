@@ -1,8 +1,7 @@
 img {
-    width: 500px;
-    position: absolute;
+    position: static;
     top: 0;
-    left: 890;
+    left:;
 
 }
 
