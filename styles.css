@@ -1,9 +1,15 @@
-img {
+image1{
     position: static;
     margin-top: 400px;
     
-
 }
+
+image2{
+    position: static;
+    margin-top: 600px;
+    
+}
+
 
 
 body {
