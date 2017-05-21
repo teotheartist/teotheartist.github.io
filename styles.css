@@ -29,7 +29,7 @@ p {
 
 #third {
     position: absolute;
-    top: 50;
+    top: 70;
     left: 0;
     width: 100%;
 }
@@ -37,17 +37,17 @@ p {
 #itunes { 
     position: fixed;
     top: 230;
-    left: 60vw;
+    left: 48vw;
 }
 
 #spotify {
     position: fixed;
     top: 230;
-    left: 80vw;
+    left: 60vw;
 }
 
 #soundcloud {
     position: fixed;
     top: 230;
-    left: 40vw;
+    left: 37vw;
 }
