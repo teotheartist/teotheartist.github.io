@@ -1,1 +1,35 @@
+img {
+    position: static;
+    margin-top: 400px;
+    left:;
 
+}
+
+body {
+    text-align: center;
+    font-family: "Georgia";
+    background-color:black;
+    
+}
+
+h1 {
+    position: absolute;
+    margin-top: -165px;
+    left: 0;
+    width: 100%;
+    
+}
+
+p {
+    position: absolute;
+    top: 18;
+    left: 0;
+    width: 100%;
+}
+
+p1 {
+    position: absolute;
+    top: 50;
+    left: 0;
+    width: 100%;
+}
