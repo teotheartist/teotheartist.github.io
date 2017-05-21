@@ -1,16 +1,45 @@
-img {
-    position: absolute;
-    margin-bottom: -500px;
+image2 {
+    position: static;
+    margin-bottom:500px;
     
 }
 img {
-    position: relative;
+    position: static;
     margin-top: 400px;
 }
 
 body {
     text-align: center;
     font-family: "Helvetica";
-    background-color:"black";
+    background-color: "white";
+    
 }
 
+h1 {
+    position: absolute;
+    margin-top: -165px;
+    left: 0;
+    width: 100%;
+    
+}
+
+p {
+    position: absolute;
+    top: 18;
+    left: 0;
+    width: 100%;
+}
+
+p1 {
+    position: absolute;
+    top: 50;
+    left: 0;
+    width: 100%;
+}
+
+p2 {
+    position: absolute;
+    top:-250;
+    left: 0;
+    width: 100%;
+}
