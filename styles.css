@@ -1,14 +1,12 @@
 img {
     position: static;
     margin-top: 400px;
-    left:;
-
 }
 
 body {
     text-align: center;
-    font-family: "Georgia";
-    background-color:black;
+    font-family: "Helvetica";
+    background-color: "white";
     
 }
 
