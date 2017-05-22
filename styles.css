@@ -58,3 +58,8 @@ p {
     left: 16vw;
 }
 
+.WebContainer{
+    width:100%;
+    min-width:1000px;
+    height:auto;
+} 
