@@ -57,3 +57,8 @@ p {
     top:500;
     left: 24vw;
 }
+
+#body{
+    -webkit-transform: scale(.97)
+     
+}
