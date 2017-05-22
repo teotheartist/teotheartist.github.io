@@ -59,7 +59,7 @@ p {
 }
 
 #body{
-    position:relative;
+    left: 100vw;
     -webkit-transform: scale(1.4)
      
 }
