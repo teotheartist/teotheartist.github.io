@@ -51,3 +51,9 @@ p {
     top: 230;
     left: 39vw;
 }
+
+#strawberry {
+    position: fixed;
+    top:700;
+    left: 48vw;
+}
