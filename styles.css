@@ -35,26 +35,31 @@ p {
 }
 
 #itunes { 
-    position: fixed;
-    top: 230;
+    position: absolute;
+    top: 4;
     left: 46vw;
 }
 
 #spotify {
-    position: fixed;
-    top: 230;
+    position: absolute;
+    top: 4;
     left: 58vw;
 }
 
 #soundcloud {
-    position: fixed;
-    top: 230;
+    position: absolute;
+    top: 4;
     left: 35vw;
 }
 
 #strawberry {
-    position: fixed;
-    top:530;
-    left: 31vw ;
+   position: static;
+    margin-top: 500;
+}
+
+#wrapper {
+    margin-left:auto;
+    margin-right:auto;
+    width:960px;
 }
 
