@@ -14,15 +14,23 @@ body {
 h1 {
     position: absolute;
     margin-top: -180px;
-    left: 1;
+    left:0;
     width: 100%;
     font-family: 20px;
     
 }
 
-p {
+#first {
+    position:absolute;
+    top: -30px;
+    left: -100;
+    width:100%;
+}
+
+
+#second {
     position: absolute;
-    top: 18;
+    top: 20;
     left: 0;
     width: 100%;
 }
@@ -30,7 +38,7 @@ p {
 #third {
     position: absolute;
     top: 70;
-    left: 0;
+    left: 100;
     width: 100%;
 }
 
