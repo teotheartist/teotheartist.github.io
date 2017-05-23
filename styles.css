@@ -45,25 +45,27 @@ h1 {
 #itunes { 
     position: absolute;
     top: 4;
-    left: 46vw;
-    width: auto;
-   max-width: 50%
+    left: 47vw;
+     max-width: 9px;
+  min-width: 9px;
 }
 
 #spotify {
     position: absolute;
     top: 4;
-    left: 50vw;
-    width: auto;
-   max-width: 50%
+    left: 56.6vw;
+  max-width: 9px;
+  min-width: 9px;
+
 }
 
 #soundcloud {
     position: absolute;
     top: 4;
-    left: 42.5vw;
-    width: auto;
-   max-width: 50%;
+    left: 38.5vw;
+   max-width: 8px;
+  min-width: 8px;
+
 }
 
 #strawberry {
