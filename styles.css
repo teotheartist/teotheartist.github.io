@@ -1,5 +1,5 @@
 #my{
-zoom: 300%;
+zoom: 180%;
 }
 
 .content-wrapper {
@@ -17,8 +17,9 @@ img {
 
 body {
     text-align: center;
-    font-family: "Helvetica";
+    font-family: "verdana";
     background-color: white;
+;
     
 }
 
