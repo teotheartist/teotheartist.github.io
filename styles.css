@@ -1,7 +1,13 @@
+#my{
+zoom: 125%;
+}
+
 .content-wrapper {
     margin: 0 auto;
     max-width: 960px;
 }
+
+
 
 
 img {
