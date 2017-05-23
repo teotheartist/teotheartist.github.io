@@ -45,7 +45,7 @@ h1 {
 #itunes { 
     position: absolute;
     top: 4;
-    left: 47vw;
+    left: 46vw;
     width: auto;
    max-width: 50%
 }
@@ -53,7 +53,7 @@ h1 {
 #spotify {
     position: absolute;
     top: 4;
-    left: 58vw;
+    left: 50vw;
     width: auto;
    max-width: 50%
 }
@@ -61,7 +61,7 @@ h1 {
 #soundcloud {
     position: absolute;
     top: 4;
-    left: 36vw;
+    left: 42.5vw;
     width: auto;
    max-width: 50%;
 }
