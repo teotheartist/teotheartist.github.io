@@ -46,12 +46,16 @@ h1 {
     position: absolute;
     top: 4;
     left: 47vw;
+    width: auto;
+   max-width: 50%
 }
 
 #spotify {
     position: absolute;
     top: 4;
     left: 58vw;
+    width: auto;
+   max-width: 50%
 }
 
 #soundcloud {
@@ -59,13 +63,16 @@ h1 {
     top: 4;
     left: 36vw;
     width: auto;
-   max-width: 100%;
+   max-width: 50%;
 }
 
 #strawberry {
    position: static;
     margin-top: 260;
     width: auto;
-   max-width: 100%;
+   max-width: 500%;
 }
 
+ .image-stack .image-wrapper img {
+   width: auto;
+ }
