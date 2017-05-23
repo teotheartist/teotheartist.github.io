@@ -76,10 +76,11 @@ h1 {
 }
 
 #strawberry {
-   position: absolute;
-    margin-top: 350;
+    position: absolute;
+  margin-top: 290px;
+    left:0;
     width: 100%;
-    height: auto;;
+    height: 75px;
 }
 
  .image-stack .image-wrapper img {
