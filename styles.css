@@ -23,7 +23,7 @@ h1 {
 #first {
     position:absolute;
     top: -30px;
-    left: -100;
+    left: 0;
     width:100%;
 }
 
@@ -38,7 +38,7 @@ h1 {
 #third {
     position: absolute;
     top: 70;
-    left: 100;
+    left: 0;
     width: 100%;
 }
 
@@ -58,10 +58,14 @@ h1 {
     position: absolute;
     top: 4;
     left: 36vw;
+    width: auto;
+   max-width: 100%;
 }
 
 #strawberry {
    position: static;
     margin-top: 260;
+    width: auto;
+   max-width: 100%;
 }
 
