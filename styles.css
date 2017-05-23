@@ -1,3 +1,8 @@
+.content-wrapper {
+    margin: 0 auto;
+    max-width: 960px;
+}
+
 
 img {
     position: static;
@@ -23,7 +28,7 @@ h1 {
 #first {
     position:absolute;
     top: -30px;
-    left: 0;
+    left: 3;
     width:100%;
 }
 
@@ -31,48 +36,50 @@ h1 {
 #second {
     position: absolute;
     top: 20;
-    left: 0;
+    left: 3;
     width: 100%;
 }
 
 #third {
     position: absolute;
     top: 70;
-    left: 0;
+    left: 3;
     width: 100%;
 }
 
 #itunes { 
     position: absolute;
-    top: 4;
-    left: 47vw;
-     max-width: 9px;
-  min-width: 9px;
+  margin-top: -40px;
+    left: 0;
+    width: 100%;
+    height: 75px;
+   
 }
 
 #spotify {
-    position: absolute;
-    top: 4;
-    left: 56.6vw;
-  max-width: 9px;
-  min-width: 9px;
+   position: absolute;
+  margin-top: -40px;
+    left: 100;
+    width: 100%;
+    height: 75px;
+    
 
 }
 
 #soundcloud {
     position: absolute;
-    top: 4;
-    left: 38.5vw;
-   max-width: 8px;
-  min-width: 8px;
+  margin-top: -40px;
+    left:-100;
+    width: 100%;
+    height: 75px;
 
 }
 
 #strawberry {
-   position: static;
-    margin-top: 260;
-    width: auto;
-   max-width: 500%;
+   position: absolute;
+    margin-top: 350;
+    width: 100%;
+    height: auto;;
 }
 
  .image-stack .image-wrapper img {
