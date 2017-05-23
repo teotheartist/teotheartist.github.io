@@ -1,6 +1,6 @@
 #my{
 zoom: 200%;
-width: 200%;
+width: 100px;
 }
 
 
@@ -11,6 +11,7 @@ width: 200%;
 img {
     position: static;
     margin-top: 200;
+    
 }
 
 body {
