@@ -6,7 +6,7 @@ zoom: 160%;
 
 img {
     position: static;
-    margin-top: 180;
+    margin-top: 150;
     
 }
 
@@ -51,7 +51,7 @@ h1 {
 
 #itunes { 
     position: absolute;
-  margin-top: -20px;
+  margin-top: 20px;
     left: 0;
     width: 100%;
     height: 75px;
@@ -60,7 +60,7 @@ h1 {
 
 #spotify {
    position: absolute;
-  margin-top: -20px;
+  margin-top: 20px;
     left: 100;
     width: 100%;
     height: 75px;
@@ -70,7 +70,7 @@ h1 {
 
 #soundcloud {
     position: absolute;
-  margin-top: -20px;
+  margin-top: 20px;
     left:-100;
     width: 100%;
     height: 75px;
@@ -79,7 +79,7 @@ h1 {
 
 #strawberry {
     position: absolute;
-  margin-top: 270px;
+  margin-top: 290px;
     left:0;
     width: 100%;
     height: 75px;
