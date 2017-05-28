@@ -6,13 +6,13 @@ zoom: 160%;
 
 img {
     position: static;
-    margin-top: 130;
+    margin-top: 80;
     
 }
 
 body {
     text-align: center;
-    font-family: "calibri";
+    font-family: "Trebuchet MS";
     background-color: white;
 ;
     
@@ -58,7 +58,7 @@ h1 {
 
 #itunes { 
     position: absolute;
-  margin-top: 30px;
+  margin-top: 70px;
     left: 0;
     width: 100%;
     height: 75px;
@@ -67,7 +67,7 @@ h1 {
 
 #spotify {
    position: absolute;
-  margin-top: 30px;
+  margin-top: 70px;
     left: 100;
     width: 100%;
     height: 75px;
@@ -77,7 +77,7 @@ h1 {
 
 #soundcloud {
     position: absolute;
-  margin-top: 30px;
+  margin-top: 70px;
     left:-100;
     width: 100%;
     height: 75px;
